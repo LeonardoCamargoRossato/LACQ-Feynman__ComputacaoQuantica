@@ -1,20 +1,37 @@
-🔬 Repositório de Computação Quântica da LACQ
+<div align="center">
 
-Este repositório contém todos os materiais didáticos relacionados aos cursos e aulas de Computação Quântica ministrados na LACQ. Aqui, você encontrará notas de aula, slides, recursos auxiliares, e outros materiais educativos que cobrem diversos tópicos e conceitos fundamentais da computação quântica.
+# LACQ Feynman — Quantum Computing Knowledge Base
 
-📁 Conteúdo do Repositório
-    📝 Notas de Aula: Anotações detalhadas e explicações sobre conceitos teóricos e práticos abordados nas aulas.
-    📊 Slides: Apresentações utilizadas durante as aulas para facilitar o entendimento dos temas discutidos.
-    📚 Materiais Auxiliares: Recursos adicionais como leituras complementares, exercícios, e links úteis.
+**Educational resources, lectures and technical material for learning quantum computing and quantum information.**
 
-🎯 Objetivo
-O objetivo deste repositório é fornecer um acesso fácil e organizado aos materiais de ensino para estudantes, pesquisadores e entusiastas da computação quântica que desejam aprofundar seus conhecimentos na área, facilitando o estudo autodirigido e o suporte acadêmico.
+![Tier](https://img.shields.io/badge/Portfolio-Tier%20B-2563EB?style=flat-square) ![Domain](https://img.shields.io/badge/Domain-Quantum%20Computing-7C3AED?style=flat-square) ![Status](https://img.shields.io/badge/Status-Educational-6B7280?style=flat-square)
 
-🔗 Recursos Externos
-Para aqueles interessados em explorar computadores quânticos reais, recomendamos visitar o site da SpinQ em SpinQuanta, onde você pode encontrar informações sobre os produtos e serviços oferecidos, incluindo a venda de computadores quânticos reais. (https://www.spinquanta.com/products-services/geminiLab)
+</div>
 
-🤝 Contribuições
-Contribuições para este repositório são bem-vindas! Se você deseja contribuir com materiais adicionais, por favor, veja as diretrizes de contribuição ou entre em contato através dos meios disponibilizados aqui.
+## Overview
 
-📧 Contato
-Para mais informações, dúvidas ou colaborações, entre em contato conosco através do e-mail ou insta da LACQ; Ou pelo meu email particular: leo.c.rossato@gmail.com
+This repository consolidates teaching and reference material produced and curated in the context of LACQ Feynman. It serves as a technical knowledge base for students, researchers and enthusiasts studying quantum computing, quantum information and related physical concepts.
+
+## Contents
+
+- Introductory quantum-computing presentations
+- Lecture and supporting material
+- Resources related to SpinQ quantum computers
+- Material on entanglement and quantum information
+- Complementary physics topics including quasiparticles and superconductivity
+
+## Purpose
+
+The goal is to make advanced quantum concepts easier to navigate through structured educational material and practical references, connecting fundamental physics with emerging quantum technologies.
+
+## Topics
+
+`Quantum Computing` · `Quantum Information` · `Quantum Physics` · `Education` · `Deep Tech`
+
+## Portfolio Classification
+
+**Tier B — Technical / Educational Project.** This repository demonstrates deep-tech domain expertise and technical communication rather than a standalone software product.
+
+---
+
+**Leonardo Camargo Rossato** · Developer & Solution Architect · AI, Data & Deep Tech
