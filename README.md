@@ -32,6 +32,10 @@ The goal is to make advanced quantum concepts easier to navigate through structu
 
 **Tier B — Technical / Educational Project.** This repository demonstrates deep-tech domain expertise and technical communication rather than a standalone software product.
 
+## Portfolio
+
+**Personal Technical Portfolio:** https://leonardocamargorossato.github.io/LCR-SolutionsArchitecture-IA-Quantum/#/
+
 ---
 
 **Leonardo Camargo Rossato** · Developer & Solution Architect · AI, Data & Deep Tech
